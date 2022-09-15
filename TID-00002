@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T15:42:21.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nAL0pMUmJhDuRgfc94Xs" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T15:43:01.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VIiV6sopJRnP_pcFZI-h" version="20.3.1" type="github">
   <diagram id="lvyHxRbmdwS-SJcSL0rJ" name="페이지-1">
-    <mxGraphModel dx="1209" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xkteHQj4fONwdswH41Mh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xkteHQj4fONwdswH41Mh-1" target="xkteHQj4fONwdswH41Mh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xkteHQj4fONwdswH41Mh-1" value="TID-NNU0002" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="394.5" y="127" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkteHQj4fONwdswH41Mh-2" value="[get:uer_name]!&lt;br&gt;저 오늘 엄청난걸 알아냈어요" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="256" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkteHQj4fONwdswH41Mh-4" value="관심 없어 / 안궁금해" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-44.5" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
